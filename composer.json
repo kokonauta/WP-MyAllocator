@@ -1,0 +1,5 @@
+{
+    "require": {
+        "myallocator/myallocator-php-sdk-ota": "^1.0"
+    }
+}

@@ -12,4 +12,4 @@
  * @package         Wp_Myallocator
  */
 
-// Your code starts here.
+require_once( dirname( __FILE__ ) . '/vendor/autoload.php');
