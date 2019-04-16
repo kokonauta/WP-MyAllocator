@@ -13,3 +13,4 @@
  */
 
 require_once( dirname( __FILE__ ) . '/vendor/autoload.php');
+include( dirname( __FILE__ ) . '/inc/options-page.php' );
